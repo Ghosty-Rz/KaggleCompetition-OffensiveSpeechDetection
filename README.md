@@ -1,6 +1,6 @@
-# Hate Speech Classification Project
+# Hate Speech Classification
 
-## Project Overview
+## Overview
 
 This project aimed to develop deep learning models for classifying tweets into three categories: **Hate Speech**, **Offensive Language**, and **Neither**. Four different neural network architectures were properly implemented and compared: **LSTM**, **GRU**, **CNN**, and **RNN**.
 
